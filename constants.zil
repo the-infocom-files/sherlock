@@ -1034,7 +1034,7 @@ old chap.\"">
 they beat you about the head and shoulders with their shopping bags.">
 
 <CONSTANT K-GOOD-HEALTH-MSG
-" He looks suprised that you didn't try to haggle with him,
+" He looks surprised that you didn't try to haggle with him,
 says, \"Thank you, guv'nor. Enjoy it in good 'ealth,\"">
 
 <CONSTANT K-TIPSY-MSG
