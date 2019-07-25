@@ -1057,7 +1057,7 @@ decide you're better off in the water and politely decline."  CR CR>
 <ROUTINE RT-AC-TH-OAR-1 ("OPT" (CONTEXT <>))
 	<DEBUGGING? <RT-DEBUG-OB-AC "TH-OAR-1">>
 	<COND (<==? .CONTEXT ,K-M-DESCFCN>
-	       <TELL "The oar is hopelessy jammed into the oarlock." CR>)
+	       <TELL "The oar is hopelessly jammed into the oarlock." CR>)
 	      (<MC-T? .CONTEXT>
 	       <RFALSE>)
 	      (<MC-VERB? TAKE>
