@@ -30,6 +30,22 @@ The following sources provide further information on Sherlock:
 |       " |      " |    " |                                 " | [sherlock-nosound-r26.zip] |                  - |
 |       4 | 880324 |  FIN |  [sherlock-nosound-r4-s880324.z5] |                          - |                  - |
 
+[sherlock-nosound-r21-s871214.z5]: https://eblong.com/infocom/gamefiles/sherlock-nosound-r21-s871214.z5
+
+[sherlock-r22-s880112.z5]: https://eblong.com/infocom/gamefiles/sherlock-r22-s880112.z5
+
+[sherlock-ss-rearlier.zip]: https://eblong.com/infocom/sources/sherlock-ss-rearlier.zip
+
+[sherlock-r26-s880127.z5]: https://eblong.com/infocom/gamefiles/sherlock-r26-s880127.z5
+[sherlock-r26.zip]: https://eblong.com/infocom/sources/sherlock-r26.zip
+
+[sherlock-sound-r26.zip]: https://eblong.com/infocom/sources/sherlock-sound-r26.zip
+[release version]: https://github.com/historicalsource/sherlock/tree/d327e7626dbfacc5d634d7d7ee40d95ddb5fddf2
+
+[sherlock-nosound-r26.zip]: https://eblong.com/infocom/sources/sherlock-nosound-r26.zip
+
+[sherlock-nosound-r4-s880324.z5]: https://eblong.com/infocom/gamefiles/sherlock-nosound-r4-s880324.z5
+
 ## Future Development
 
 Version 26/880127 has been selected as the starting point for future development.
