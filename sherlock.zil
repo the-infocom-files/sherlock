@@ -4,6 +4,7 @@
 ******************************************************************************
 ">
 
+<CONSTANT RELEASEID 1>
 <VERSION XZIP>
 
 ON!-INITIAL
@@ -153,33 +154,33 @@ DISABLE!-INITIAL
 	<COND (<LENGTH? .X 1> <1 .X>)
 	      (T <CHTYPE (!.X) SPLICE>)>>
 
-<INSERT-FILE "CONSTANTS" T>
-<INSERT-FILE "MACROS"    T>   ;"AUXES MERGED INTO MACROS"
-<INSERT-FILE "SYNTAX" T>      ;"MISC (BETA/GAMMA STUFF) DELETED"
-<INSERT-FILE "SCHED"      T>
-<INSERT-FILE "BOOT"       T>
-<INSERT-FILE "PARSER"     T>
+<INSERT-FILE "constants" T>
+<INSERT-FILE "macros"    T>   ;"AUXES MERGED INTO MACROS"
+<INSERT-FILE "syntax" T>      ;"MISC (BETA/GAMMA STUFF) DELETED"
+<INSERT-FILE "sched"      T>
+<INSERT-FILE "boot"       T>
+<INSERT-FILE "parser"     T>
 ; "If PARSER doesn't end before 44800, you'll lose on the C64."
 <PUT-PURE-HERE>
-<INSERT-FILE "OTHER-MISC" T>  ;"GO & WAIT & WINDOW MERGED INTO OTHER-MISC"
-<INSERT-FILE "SOUNDS"	 T>
-<INSERT-FILE "DEBUG"     T>
-<INSERT-FILE "HINTS"     T>
-<INSERT-FILE "VERBS"	 T>
-<INSERT-FILE "PEOPLE"	 T>
-<INSERT-FILE "GENERIC"   T>
-<INSERT-FILE "PLACES3"   T>
-<INSERT-FILE "PLACES2"   T>
-<INSERT-FILE "PLACES1"   T>
-<INSERT-FILE "THINGS2"   T>
-<INSERT-FILE "THINGS1"   T>
-<INSERT-FILE "CAB"       T>
-<INSERT-FILE "TOWER"     T>
-<INSERT-FILE "SCOPE"     T>
-<INSERT-FILE "ELIZA"     T>
-<INSERT-FILE "CHARLES"   T>
-<INSERT-FILE "BANK"      T>
-<INSERT-FILE "PUZZLES"   T>
-<INSERT-FILE "LOCALS"    T>   ;"MERGED LOCALS1 AND LOCALS2"
+<INSERT-FILE "other-misc" T>  ;"GO & WAIT & WINDOW MERGED INTO OTHER-MISC"
+<INSERT-FILE "sounds"	 T>
+<INSERT-FILE "debug"     T>
+<INSERT-FILE "hints"     T>
+<INSERT-FILE "verbs"	 T>
+<INSERT-FILE "people"	 T>
+<INSERT-FILE "generic"   T>
+<INSERT-FILE "places3"   T>
+<INSERT-FILE "places2"   T>
+<INSERT-FILE "places1"   T>
+<INSERT-FILE "things2"   T>
+<INSERT-FILE "things1"   T>
+<INSERT-FILE "cab"       T>
+<INSERT-FILE "tower"     T>
+<INSERT-FILE "scope"     T>
+<INSERT-FILE "eliza"     T>
+<INSERT-FILE "charles"   T>
+<INSERT-FILE "bank"      T>
+<INSERT-FILE "puzzles"   T>
+<INSERT-FILE "locals"    T>   ;"MERGED LOCALS1 AND LOCALS2"
 
 
