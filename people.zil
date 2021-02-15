@@ -800,7 +800,7 @@ years, his life ended on the executioner's block.\"" CR>)
 price for them.\"" CR>)
 	      (<EQUAL? .OBJ ,TH-WESTMINSTER-CLUE>
 	       <TELL
-"\"Most curious, don't you agree Watson? All thieves unintentionaly leave
+"\"Most curious, don't you agree Watson? All thieves unintentionally leave
 behind clues that are discernable to the trained eye. But it is highly
 irregular for a thief to taunt the authorities with an actual message.
 Especially one with references as obvious as this.\"" CR>)

@@ -646,7 +646,7 @@ out and gives it to you." CR>
 		       <MC-UNMAKE ,TH-GARNET ,FL-NODESC>
 		       <TELL CTHE ,CH-WIGGINS>
 		       <COND (<NOT <IN? ,CH-WIGGINS ,TH-BUTT-OF-MALMSEY>>
-			      <TELL " climbs into the empty butt of malsey,">)>
+			      <TELL " climbs into the empty butt of malmsey,">)>
 		       <TELL " gets the gem, gets out, and gives it to you."
 			     CR>
 		       <RT-UPDATE-SCORE <GETP ,TH-GARNET ,P?VALUE>>
